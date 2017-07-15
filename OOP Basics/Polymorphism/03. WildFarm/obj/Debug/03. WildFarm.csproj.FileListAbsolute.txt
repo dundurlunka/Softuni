@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\bin\Debug\_03.WildFarm.exe.config
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\bin\Debug\_03.WildFarm.exe
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\bin\Debug\_03.WildFarm.pdb
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\obj\Debug\03. WildFarm.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\obj\Debug\_03.WildFarm.exe
+D:\Softuni Projects\OOP Basics\Polymorphism\Exam\03. WildFarm\obj\Debug\_03.WildFarm.pdb
