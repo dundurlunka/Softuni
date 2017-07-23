@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\obj\Debug\01. InterfaceIPerson.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\bin\Debug\_01.InterfaceIPerson.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\bin\Debug\_01.InterfaceIPerson.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\bin\Debug\_01.InterfaceIPerson.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\obj\Debug\_01.InterfaceIPerson.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\01. InterfaceIPerson\obj\Debug\_01.InterfaceIPerson.pdb

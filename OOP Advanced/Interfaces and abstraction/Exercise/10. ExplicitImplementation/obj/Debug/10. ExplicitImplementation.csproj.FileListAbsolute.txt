@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\bin\Debug\_10.ExplicitImplementation.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\bin\Debug\_10.ExplicitImplementation.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\bin\Debug\_10.ExplicitImplementation.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\obj\Debug\10. ExplicitImplementation.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\obj\Debug\_10.ExplicitImplementation.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\10. ExplicitImplementation\obj\Debug\_10.ExplicitImplementation.pdb

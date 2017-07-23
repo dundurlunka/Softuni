@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\bin\Debug\_05.BorderControl.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\bin\Debug\_05.BorderControl.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\bin\Debug\_05.BorderControl.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\obj\Debug\05. BorderControl.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\obj\Debug\_05.BorderControl.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\05. BorderControl\obj\Debug\_05.BorderControl.pdb

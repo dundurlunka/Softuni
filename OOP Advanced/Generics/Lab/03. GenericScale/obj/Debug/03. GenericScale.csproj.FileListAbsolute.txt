@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\bin\Debug\_03.GenericScale.exe.config
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\bin\Debug\_03.GenericScale.exe
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\bin\Debug\_03.GenericScale.pdb
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\obj\Debug\03. GenericScale.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\obj\Debug\_03.GenericScale.exe
+D:\Softuni Projects\OOP Advanced\Generics\Lab\03. GenericScale\obj\Debug\_03.GenericScale.pdb

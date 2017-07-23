@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\bin\Debug\_06.Celebrations.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\bin\Debug\_06.Celebrations.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\bin\Debug\_06.Celebrations.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\obj\Debug\06. Celebrations.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\obj\Debug\_06.Celebrations.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\06. Celebrations\obj\Debug\_06.Celebrations.pdb

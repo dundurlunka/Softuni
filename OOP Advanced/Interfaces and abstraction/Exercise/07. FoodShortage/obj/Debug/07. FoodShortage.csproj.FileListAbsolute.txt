@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\bin\Debug\_07.FoodShortage.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\bin\Debug\_07.FoodShortage.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\bin\Debug\_07.FoodShortage.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\obj\Debug\07. FoodShortage.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\obj\Debug\_07.FoodShortage.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\07. FoodShortage\obj\Debug\_07.FoodShortage.pdb

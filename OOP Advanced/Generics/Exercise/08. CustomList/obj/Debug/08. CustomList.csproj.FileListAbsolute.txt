@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\bin\Debug\_08.CustomList.exe.config
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\bin\Debug\_08.CustomList.exe
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\bin\Debug\_08.CustomList.pdb
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\obj\Debug\08. CustomList.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\obj\Debug\_08.CustomList.exe
+D:\Softuni Projects\OOP Advanced\Generics\Exercise\08. CustomList\obj\Debug\_08.CustomList.pdb

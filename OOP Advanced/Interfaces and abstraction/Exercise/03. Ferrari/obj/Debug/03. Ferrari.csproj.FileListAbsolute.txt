@@ -1,0 +1,6 @@
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\bin\Debug\_03.Ferrari.exe.config
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\bin\Debug\_03.Ferrari.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\bin\Debug\_03.Ferrari.pdb
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\obj\Debug\03. Ferrari.csprojResolveAssemblyReference.cache
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\obj\Debug\_03.Ferrari.exe
+D:\Softuni Projects\OOP Advanced\Interfaces and abstraction\Exercise\03. Ferrari\obj\Debug\_03.Ferrari.pdb
